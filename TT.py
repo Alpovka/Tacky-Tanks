@@ -377,8 +377,6 @@ def GameLoop():
     
     gameQuit = False
 
-    
-
 
     while not gameQuit:
         
