@@ -15,7 +15,6 @@ class Tank(sprite.Sprite):
         self.initialY = y
 
         self.initial_image = transform.scale(Load_Image_From_Zip(archive,image_name),[int(SCREEN_WIDTH / 35.025),int(SCREEN_HEIGHT / 11.636)])
-        
         self.Image = self.initial_image
         self.width = self.initial_image.get_width()
         self.height = self.initial_image.get_height()
