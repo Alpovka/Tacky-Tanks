@@ -81,4 +81,4 @@ pip install pygame
 
 
 
-![LOGO](https://user-images.githubusercontent.com/67004083/95011731-8a6a6e00-063b-11eb-9c54-26a791ca13de.jpg)
+   ![LOGO](https://user-images.githubusercontent.com/67004083/95011731-8a6a6e00-063b-11eb-9c54-26a791ca13de.jpg)
